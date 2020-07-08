@@ -2,6 +2,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Data_Structures
 {
@@ -9,13 +10,17 @@ namespace Data_Structures
     {
         static void Main(string[] args)
         {
-            Array numbers = new Array(3);
-            numbers.insert(10);
-            numbers.insert(20);
-            numbers.insert(30);
-            numbers.insert(40);
-            Console.WriteLine(numbers.indexOf(20));
-            numbers.print();
+            var list = new LinkedList();
+            list.addLast(10);
+            list.addLast(20);
+            list.addFirst(5);
+            Console.WriteLine(list.indexOf(10));
+            Console.WriteLine(list.contains(20));
+            var array = list.toArray();
+            foreach (var item in array)
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }
