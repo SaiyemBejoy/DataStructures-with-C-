@@ -10,16 +10,17 @@ namespace Data_Structures
     {
         static void Main(string[] args)
         {
-            var list = new LinkedList();
-            list.addLast(10);
-            list.addLast(20);
-            list.addFirst(5);
-            Console.WriteLine(list.indexOf(10));
-            Console.WriteLine(list.contains(20));
-            var array = list.toArray();
-            foreach (var item in array)
+            var stack = new StackViaArray();
+            stack.push(10);
+            stack.push(20);
+            stack.push(30);
+            stack.push(40);
+            stack.push(50);
+            var top = stack.peek();
+            Console.WriteLine("Peek: "+top);
+            while (!stack.empty())
             {
-                Console.WriteLine(item);
+                Console.WriteLine(stack.pop());
             }
         }
     }
