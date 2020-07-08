@@ -1,0 +1,13 @@
+G:\C# projects\DS_Algo\Data_Structures\Data_Structures\bin\Debug\netcoreapp3.1\Data_Structures.exe
+G:\C# projects\DS_Algo\Data_Structures\Data_Structures\bin\Debug\netcoreapp3.1\Data_Structures.deps.json
+G:\C# projects\DS_Algo\Data_Structures\Data_Structures\bin\Debug\netcoreapp3.1\Data_Structures.runtimeconfig.json
+G:\C# projects\DS_Algo\Data_Structures\Data_Structures\bin\Debug\netcoreapp3.1\Data_Structures.runtimeconfig.dev.json
+G:\C# projects\DS_Algo\Data_Structures\Data_Structures\bin\Debug\netcoreapp3.1\Data_Structures.dll
+G:\C# projects\DS_Algo\Data_Structures\Data_Structures\bin\Debug\netcoreapp3.1\Data_Structures.pdb
+G:\C# projects\DS_Algo\Data_Structures\Data_Structures\obj\Debug\netcoreapp3.1\Data_Structures.csprojAssemblyReference.cache
+G:\C# projects\DS_Algo\Data_Structures\Data_Structures\obj\Debug\netcoreapp3.1\Data_Structures.AssemblyInfoInputs.cache
+G:\C# projects\DS_Algo\Data_Structures\Data_Structures\obj\Debug\netcoreapp3.1\Data_Structures.AssemblyInfo.cs
+G:\C# projects\DS_Algo\Data_Structures\Data_Structures\obj\Debug\netcoreapp3.1\Data_Structures.csproj.CoreCompileInputs.cache
+G:\C# projects\DS_Algo\Data_Structures\Data_Structures\obj\Debug\netcoreapp3.1\Data_Structures.dll
+G:\C# projects\DS_Algo\Data_Structures\Data_Structures\obj\Debug\netcoreapp3.1\Data_Structures.pdb
+G:\C# projects\DS_Algo\Data_Structures\Data_Structures\obj\Debug\netcoreapp3.1\Data_Structures.genruntimeconfig.cache
