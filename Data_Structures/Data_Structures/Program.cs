@@ -10,11 +10,12 @@ namespace Data_Structures
     {
         static void Main(string[] args)
         {
-            var queue = new ArrayQueue(5);
-            queue.enqueue(10);
-            queue.enqueue(20);
-            queue.enqueue(30);
-            Console.WriteLine(queue.peek());
+            HashMap table = new HashMap();
+            table.put(6, "A");
+            table.put(8, "B");
+            table.put(11, "C");
+            table.remove(8);
+            Console.WriteLine(table.get(8));
         }
     }
 }
